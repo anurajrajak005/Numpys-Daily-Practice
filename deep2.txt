@@ -1,0 +1,6 @@
+# Transfer list of emp
+10
+30
+40
+50
+# Done
